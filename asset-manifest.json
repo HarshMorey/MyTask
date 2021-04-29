@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyTask/static/css/main.92a51d7f.chunk.css",
+    "main.js": "/MyTask/static/js/main.e6982333.chunk.js",
+    "main.js.map": "/MyTask/static/js/main.e6982333.chunk.js.map",
+    "runtime-main.js": "/MyTask/static/js/runtime-main.4dd6a837.js",
+    "runtime-main.js.map": "/MyTask/static/js/runtime-main.4dd6a837.js.map",
+    "static/css/2.05a0ae32.chunk.css": "/MyTask/static/css/2.05a0ae32.chunk.css",
+    "static/js/2.eb9c30f9.chunk.js": "/MyTask/static/js/2.eb9c30f9.chunk.js",
+    "static/js/2.eb9c30f9.chunk.js.map": "/MyTask/static/js/2.eb9c30f9.chunk.js.map",
+    "index.html": "/MyTask/index.html",
+    "precache-manifest.7eb573298e90939c4094729cbba97114.js": "/MyTask/precache-manifest.7eb573298e90939c4094729cbba97114.js",
+    "service-worker.js": "/MyTask/service-worker.js",
+    "static/css/2.05a0ae32.chunk.css.map": "/MyTask/static/css/2.05a0ae32.chunk.css.map",
+    "static/css/main.92a51d7f.chunk.css.map": "/MyTask/static/css/main.92a51d7f.chunk.css.map",
+    "static/js/2.eb9c30f9.chunk.js.LICENSE.txt": "/MyTask/static/js/2.eb9c30f9.chunk.js.LICENSE.txt",
+    "static/media/song.mp3": "/MyTask/static/media/song.68bfe60c.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd6a837.js",
+    "static/css/2.05a0ae32.chunk.css",
+    "static/js/2.eb9c30f9.chunk.js",
+    "static/css/main.92a51d7f.chunk.css",
+    "static/js/main.e6982333.chunk.js"
+  ]
+}
